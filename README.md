@@ -12,9 +12,9 @@ This is a responsive personal portfolio website built using HTML and CSS.
 ## Technologies Used
 - HTML5
 - CSS3
--Javascript
--Node.js
--MangoDB
+- Javascript
+- Node.js
+- MangoDB
 
 ## Live Demo
 https://yourusername.github.io/portfolio
